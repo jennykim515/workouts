@@ -1,1 +1,3 @@
-publish = "build"
+[build]
+  CI = "npm run build"
+  publish = "build"
